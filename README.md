@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://github.com/JoaoPeluzio/biscoitodasorte/assets/131270319/54868d25-285c-4179-ac19-bf2b7547b8b8" alt="Demonstração do projeto" width="100%" />
-  <img src=".github/captura02.png" alt="Demonstração do projeto" width="100%" />
+  <img src="https://github.com/JoaoPeluzio/biscoitodasorte/assets/131270319/2d6e0329-50ae-4c5d-ba15-08bec32f7f0c" alt="Demonstração do projeto" width="100%" />
 </p>
 
 ## 🖥️ Projeto
